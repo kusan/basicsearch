@@ -1,4 +1,4 @@
-# Read Me
+# basicsearch
 
 This program will should run on either windows OR linux, but has been tested only to work on linux. 
 
@@ -21,5 +21,4 @@ python Console.py
 
 Run tests with
 
-python TestDataIndexerMethods.py
-# basicsearch
+python DataIndexerTestCase.py
